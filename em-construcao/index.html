@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Em construção | Laços da Gabi</title>
+  <meta name="description" content="Estamos preparando algo especial. Laços da Gabi — laços infantis feitos à mão em Lagarto, Sergipe.">
+  <!-- Página de espera: não deve competir no Google com o site principal -->
+  <meta name="robots" content="noindex, follow">
+  <meta name="theme-color" content="#B65A6B">
+
+  <link rel="icon" type="image/svg+xml" href="../assets/icons/favicon.svg">
+  <link rel="apple-touch-icon" href="../assets/images/brand/logo.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Dancing+Script:wght@600;700&display=swap">
+
+  <style>
+    :root {
+      --blush: #F7D7DE;
+      --dusty-rose: #D89AA6;
+      --deep-rose: #B65A6B;
+      --cream: #FFF5EC;
+      --cream-soft: #FFFBF6;
+      --nude: #E7D2C6;
+      --brown: #7A5A4E;
+      --ink: #4A3B36;
+      --ink-soft: #6E5B53;
+      --font-body: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-script: "Dancing Script", cursive;
+      --radius: 20px;
+      --radius-pill: 999px;
+      --shadow: 0 16px 40px rgba(182, 90, 107, 0.12);
+      --shadow-sm: 0 8px 24px rgba(182, 90, 107, 0.10);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: var(--font-body);
+      color: var(--ink);
+      background:
+        radial-gradient(120% 120% at 85% 0%, var(--blush) 0%, transparent 45%),
+        radial-gradient(120% 120% at 0% 100%, var(--nude) 0%, transparent 45%),
+        var(--cream);
+      min-height: 100vh;
+      min-height: 100dvh;
+      display: grid;
+      place-items: center;
+      padding: 1.5rem;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+    .card {
+      width: 100%;
+      max-width: 560px;
+      background: rgba(255, 251, 246, 0.82);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border: 1px solid rgba(255, 255, 255, 0.7);
+      border-radius: 32px;
+      box-shadow: var(--shadow);
+      padding: clamp(2rem, 6vw, 3.25rem);
+      text-align: center;
+    }
+    .logo { width: clamp(160px, 45vw, 220px); height: auto; margin: 0 auto 1.5rem; display: block; }
+    .tag {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+      color: var(--deep-rose); background: #FCEBEF;
+      padding: 0.4rem 0.95rem; border-radius: var(--radius-pill); margin-bottom: 1.25rem;
+    }
+    h1 {
+      color: var(--deep-rose);
+      font-size: clamp(1.5rem, 1.1rem + 2vw, 2.1rem);
+      line-height: 1.2; margin-bottom: 0.4rem;
+    }
+    h1 .script { font-family: var(--font-script); font-weight: 700; color: var(--dusty-rose); display: block; font-size: 1.15em; }
+    p { color: var(--ink-soft); font-size: 1.02rem; max-width: 42ch; margin: 0.9rem auto 0; }
+    .actions { display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; margin-top: 1.9rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+      font-family: inherit; font-size: 0.97rem; font-weight: 600; line-height: 1;
+      padding: 0.9rem 1.5rem; border-radius: var(--radius-pill);
+      border: 1.5px solid transparent; cursor: pointer; text-decoration: none;
+      transition: transform 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
+    }
+    .btn svg { width: 1.15em; height: 1.15em; }
+    .btn--whatsapp { background: #25D366; color: #fff; box-shadow: var(--shadow-sm); }
+    .btn--whatsapp:hover { background: #1eb955; transform: translateY(-2px); }
+    .btn--instagram { background: #fff; color: var(--deep-rose); border-color: var(--blush); box-shadow: var(--shadow-sm); }
+    .btn--instagram:hover { background: #FCEBEF; transform: translateY(-2px); }
+    .btn:focus-visible { outline: 3px solid var(--dusty-rose); outline-offset: 3px; }
+    .footer { margin-top: 2rem; font-size: 0.86rem; color: var(--brown); font-weight: 500; }
+    .footer .pin { display: inline-flex; align-items: center; gap: 0.35rem; }
+    .home-link { display: inline-block; margin-top: 1rem; font-size: 0.9rem; color: var(--deep-rose); text-decoration: underline; text-underline-offset: 3px; }
+    @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <img class="logo" src="../assets/images/brand/logo.png" alt="Laços da Gabi — acessórios feitos à mão">
+
+    <span class="tag">🎀 Em construção</span>
+
+    <h1>
+      Estamos preparando
+      <span class="script">algo especial pra você</span>
+    </h1>
+    <p>Esta página ainda está sendo caprichada. Enquanto isso, fale com a Gabi pelo WhatsApp ou acompanhe as novidades no Instagram. 💕</p>
+
+    <div class="actions">
+      <a class="btn btn--whatsapp"
+         href="https://wa.me/5579998619098?text=Ol%C3%A1%2C%20Gabi!%20Encontrei%20a%20La%C3%A7os%20da%20Gabi%20pelo%20site%20e%20gostaria%20de%20conhecer%20os%20la%C3%A7os%20dispon%C3%ADveis.%20%F0%9F%8E%80"
+         target="_blank" rel="noopener" aria-label="Falar no WhatsApp com a Laços da Gabi">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 00-8.5 15.3L2 22l4.8-1.5A10 10 0 1012 2zm0 18.2a8.2 8.2 0 01-4.2-1.15l-.3-.18-2.9.9.93-2.82-.2-.3A8.2 8.2 0 1112 20.2z"/><path d="M17.5 14.4c-.3-.15-1.7-.83-2-.93-.26-.1-.46-.15-.65.15-.19.28-.74.93-.9 1.12-.17.19-.34.21-.63.07-.3-.15-1.25-.46-2.38-1.47-.88-.78-1.47-1.75-1.64-2.05-.17-.28-.02-.44.13-.58.13-.13.3-.34.44-.51.15-.17.2-.28.3-.47.1-.19.05-.35-.02-.5-.08-.14-.65-1.57-.9-2.15-.24-.57-.48-.49-.65-.5h-.56c-.19 0-.5.07-.76.35-.26.28-1 .98-1 2.4 0 1.41 1.03 2.78 1.17 2.97.15.19 2.02 3.08 4.9 4.32.68.29 1.21.47 1.63.6.68.22 1.3.19 1.79.11.55-.08 1.7-.69 1.94-1.36.24-.67.24-1.24.17-1.36-.07-.12-.26-.19-.55-.34z"/></svg>
+        WhatsApp
+      </a>
+      <a class="btn btn--instagram"
+         href="https://www.instagram.com/lacosdagabi.oficial/"
+         target="_blank" rel="noopener" aria-label="Instagram da Laços da Gabi">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="3.8"/><circle cx="17.2" cy="6.8" r="1" fill="currentColor" stroke="none"/></svg>
+        Instagram
+      </a>
+    </div>
+
+    <a class="home-link" href="../">Ir para o site da Laços da Gabi</a>
+
+    <p class="footer"><span class="pin">📍 Lagarto — Sergipe</span></p>
+  </main>
+</body>
+</html>
