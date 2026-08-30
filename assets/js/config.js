@@ -30,8 +30,8 @@ window.SITE_CONFIG = {
     "Olá, Gabi! Encontrei a Laços da Gabi pelo site e gostaria de conhecer os laços disponíveis. 🎀",
 
   /* --- Redes e presença online (PREENCHER quando tiver) --- */
-  instagram: "",            // ex.: "https://instagram.com/lacosdagabi"
-  instagramHandle: "",      // ex.: "@lacosdagabi"
+  instagram: "https://www.instagram.com/lacosdagabi.oficial/",
+  instagramHandle: "@lacosdagabi.oficial",
   googleBusinessUrl: "",    // link do Perfil da Empresa no Google
   email: "",                // ex.: "contato@lacosdagabi.com.br"
 
