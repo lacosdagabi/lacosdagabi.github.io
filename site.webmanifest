@@ -1,0 +1,25 @@
+{
+  "name": "Laços da Gabi",
+  "short_name": "Laços da Gabi",
+  "description": "Laços infantis feitos à mão em Lagarto, Sergipe.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFF5EC",
+  "theme_color": "#B65A6B",
+  "icons": [
+    {
+      "src": "assets/images/brand/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
