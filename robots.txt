@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lacosdagabi.com.br/sitemap.xml
+Sitemap: https://lacosdagabi.github.io/sitemap.xml

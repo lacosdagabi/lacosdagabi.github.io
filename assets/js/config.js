@@ -39,8 +39,8 @@ window.SITE_CONFIG = {
      domain: usado em canonical, sitemap e Open Graph.
      Enquanto estiver no GitHub Pages, use a URL do Pages.
      Ex.: "https://usuario.github.io/lacos-da-gabi" ou
-          "https://lacosdagabi.com.br" quando o domínio existir. */
-  domain: "https://lacosdagabi.com.br",
+          "https://lacosdagabi.github.io" quando o domínio existir. */
+  domain: "https://lacosdagabi.github.io",
 
   /* --- Rastreamento / Analytics (opcional, deixe "" por enquanto) --- */
   googleAnalyticsId: "",       // ex.: "G-XXXXXXXXXX"
