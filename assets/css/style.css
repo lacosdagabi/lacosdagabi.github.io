@@ -322,6 +322,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   border: 1px solid rgba(255, 255, 255, 0.6);
 }
 .hero__card svg { width: 68%; height: auto; filter: drop-shadow(0 12px 24px rgba(182, 90, 107, 0.18)); }
+.hero__card img { width: 100%; height: 100%; object-fit: cover; }
 
 .hero__badge {
   position: absolute;
@@ -449,8 +450,10 @@ ul { margin: 0; padding: 0; list-style: none; }
   box-shadow: var(--shadow-md);
   display: grid; place-items: center;
   border: 1px solid rgba(255,255,255,0.6);
+  overflow: hidden;
 }
 .about__visual svg { width: 60%; }
+.about__visual img { width: 100%; height: 100%; object-fit: cover; }
 .about__caption {
   display: inline-flex; align-items: center; gap: 0.5rem;
   font-size: 0.85rem; color: var(--color-brown); margin-top: 1rem;
