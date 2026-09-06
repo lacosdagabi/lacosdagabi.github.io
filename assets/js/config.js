@@ -44,7 +44,7 @@ window.SITE_CONFIG = {
 
   /* --- Rastreamento / Analytics (opcional, deixe "" por enquanto) --- */
   googleAnalyticsId: "",       // ex.: "G-XXXXXXXXXX"
-  searchConsoleToken: "",      // conteúdo da meta de verificação
+  searchConsoleToken: "gNTGJM6kh773Mu756_yPhune9jZzwOLQSu_XQn4Jwpc",      // conteúdo da meta de verificação
   metaPixelId: ""              // ex.: "000000000000000"
 };
 
