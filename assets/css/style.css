@@ -619,7 +619,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   grid-template-columns: 1.4fr 1fr 1fr;
   gap: 2rem;
 }
-.footer__brand img { height: 52px; margin-bottom: 0.9rem; }
+.footer__brand img { height: auto; width: 170px; max-width: 100%; margin-bottom: 0.9rem; }
 .footer__brand p { font-size: 0.92rem; color: var(--ink-soft); max-width: 32ch; }
 .footer h4 { font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-brown); margin-bottom: 0.9rem; }
 .footer__links li { margin-bottom: 0.55rem; }
