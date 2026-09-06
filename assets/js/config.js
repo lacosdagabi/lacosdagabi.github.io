@@ -66,32 +66,74 @@ window.SITE_CONFIG = {
 
 window.PRODUCTS = [
   {
-    name: "Laço Clássico",
-    description: "O modelo atemporal, perfeito para o dia a dia e para compor qualquer look.",
+    name: "Laço Ursinho Azul",
+    description: "Laço em azul sereno com ursinho de pelúcia no centro e brilhos delicados.",
     category: "Laço infantil",
-    image: "",
+    image: "assets/images/products/lac_o_azul_com_ursinho_de_pelu_cia_1_1x.webp",
     placeholder: "a"
   },
   {
-    name: "Laço Delicado",
-    description: "Fino e leve, pensado para as pequenas com um toque especial de charme.",
+    name: "Laço Ursinho Amarelo",
+    description: "Laço amarelo alegre com ursinho fofo e pequenos brilhos, para dias especiais.",
     category: "Laço infantil",
-    image: "",
+    image: "assets/images/products/lac_o_amarelo_com_ursinho_fofo_1_1x.webp",
     placeholder: "b"
   },
   {
-    name: "Laço Duplo",
-    description: "Duas camadas de fita para dar volume e destaque em ocasiões especiais.",
+    name: "Laço Ursinho Pérola",
+    description: "Laço dourado sofisticado com ursinho de pérolas — um charme para ocasiões marcantes.",
     category: "Laço infantil",
-    image: "",
+    image: "assets/images/products/lac_o_dourado_com_ursinho_de_pe_rolas_1_1x.webp",
     placeholder: "c"
   },
   {
-    name: "Laço Boutique",
-    description: "Acabamento caprichado e visual sofisticado para os momentos mais bonitos.",
+    name: "Laço Cerejinha",
+    description: "Laço xadrez azul com estampa de cerejinhas, cheio de fofura e personalidade.",
     category: "Laço infantil",
-    image: "",
+    image: "assets/images/products/lac_o_xadrez_azul_com_cerejinhas_1_1x.webp",
     placeholder: "d"
+  },
+  {
+    name: "Laço Ursinho Flores",
+    description: "Laço azul em estilo borboleta com ursinho ao centro, romântico e delicado.",
+    category: "Laço infantil",
+    image: "assets/images/products/lac_o_azul_com_ursinho_e_flores_1_1x.webp",
+    placeholder: "a"
+  },
+  {
+    name: "Laços Coração",
+    description: "Laços branquinhos com coração vermelho — delicadeza para o dia a dia.",
+    category: "Laço infantil",
+    image: "assets/images/products/lac_os_brancos_com_corac_o_es_vermelhos_1_1x.webp",
+    placeholder: "b"
+  },
+  {
+    name: "Tiara Confete",
+    description: "Tiara com laço de estampa confete em tons pastel e um detalhe fofo no centro.",
+    category: "Tiara",
+    image: "assets/images/products/tiara_infantil_com_lac_o_pastel_1_1x.webp",
+    placeholder: "c"
+  },
+  {
+    name: "Tiara Pastel",
+    description: "Tiara delicada com laço pastel e mimo no centro, leve e confortável de usar.",
+    category: "Tiara",
+    image: "assets/images/products/tiara_infantil_com_lac_o_pastel_e_flores_delicadas_1_1x.webp",
+    placeholder: "d"
+  },
+  {
+    name: "Tiara Xadrez Floral",
+    description: "Tiara de gorgurão xadrez vermelho com florzinhas — um look romântico e atemporal.",
+    category: "Tiara",
+    image: "assets/images/products/tiara_de_gorgura_o_xadrez_em_composic_a_o_roma_ntica_1_1x.webp",
+    placeholder: "a"
+  },
+  {
+    name: "Presilha Coração",
+    description: "Presilha com coração em veludo vermelho e brilhos — pequena e encantadora.",
+    category: "Presilha",
+    image: "assets/images/products/presilha_de_corac_a_o_em_veludo_vermelho_1_1x.webp",
+    placeholder: "b"
   }
 ];
 
