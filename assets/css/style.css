@@ -509,15 +509,11 @@ ul { margin: 0; padding: 0; list-style: none; }
 .local__map {
   aspect-ratio: 1 / 1;
   border-radius: var(--radius-lg);
-  background:
-    radial-gradient(100% 100% at 50% 40%, var(--color-blush-soft) 0%, transparent 70%),
-    var(--color-cream-soft);
-  border: 1px dashed var(--color-dusty-rose);
-  display: grid; place-items: center; text-align: center;
-  padding: 2rem; box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-blush-soft);
 }
-.local__map svg { width: 96px; height: 96px; color: var(--color-dusty-rose); margin-bottom: 0.8rem; }
-.local__map p { font-size: 0.92rem; color: var(--ink-soft); margin: 0; max-width: 26ch; }
+.local__map img { width: 100%; height: 100%; object-fit: cover; display: block; }
 
 /* ---------------------- Como comprar ---------------------- */
 .how { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem; counter-reset: step; }
