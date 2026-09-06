@@ -510,6 +510,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   box-shadow: var(--shadow-xs); margin: 0.5rem 0 1.6rem;
 }
 .local__map {
+  position: relative;
   aspect-ratio: 1 / 1;
   border-radius: var(--radius-lg);
   overflow: hidden;
@@ -517,6 +518,14 @@ ul { margin: 0; padding: 0; list-style: none; }
   border: 1px solid var(--color-blush-soft);
 }
 .local__map img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.local__pin--overlay {
+  position: absolute;
+  left: 1rem;
+  bottom: 1rem;
+  margin: 0;
+  z-index: 2;
+}
+.local__cta { margin-top: 1.6rem; }
 
 /* ---------------------- Como comprar ---------------------- */
 .how { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem; counter-reset: step; }
