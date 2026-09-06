@@ -680,7 +680,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   .about__visual { max-width: 380px; margin-inline: auto; order: -1; }
   .steps, .how, .reviews { grid-template-columns: 1fr; }
   .local__inner { grid-template-columns: 1fr; }
-  .local__map { max-width: 380px; margin-inline: auto; }
+  .local__map { max-width: 380px; margin-inline: auto; order: -1; }
   .footer__grid { grid-template-columns: 1fr 1fr; }
   .footer__brand { grid-column: 1 / -1; }
 }
