@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://lacosdagabi.github.io/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://lacosdagabi.github.io/lacos-infantis-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://lacosdagabi.github.io/lacos-para-bebe-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/tiaras-infantis-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/presilhas-infantis-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/lacos-escolares-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/lacos-personalizados-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/kits-de-lacos-infantis-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/acessorios-de-cabelo-infantil-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/lacos-artesanais-lagarto-se/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/onde-comprar-lacos-infantis-em-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/onde-comprar-lacos-para-bebe-em-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/tiara-ou-presilha-infantil/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/lacos-infantis-em-lagarto-modelos-precos/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/onde-comprar-tiaras-infantis-em-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/lacos-escolares-em-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/lacos-personalizados-em-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/kit-de-lacos-infantis-vale-a-pena/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/lacos-artesanais-feitos-a-mao/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/como-escolher-tamanho-laco-infantil/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/lacos-para-aniversario-infantil/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/como-combinar-lacos-com-look-infantil/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/presente-para-menina-em-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/ideias-presentes-infantis-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://lacosdagabi.github.io/blog/acessorios-de-cabelo-infantil-lagarto/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- Home -->
+  <url><loc>https://lacosdagabi.github.io/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+
+  <!-- Páginas comerciais -->
+  <url><loc>https://lacosdagabi.github.io/lacos-infantis-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lacosdagabi.github.io/lacos-para-bebe-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lacosdagabi.github.io/tiaras-infantis-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lacosdagabi.github.io/presilhas-infantis-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lacosdagabi.github.io/lacos-escolares-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lacosdagabi.github.io/lacos-personalizados-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lacosdagabi.github.io/kits-de-lacos-infantis-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lacosdagabi.github.io/acessorios-de-cabelo-infantil-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lacosdagabi.github.io/lacos-artesanais-lagarto-se/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Blog -->
+  <url><loc>https://lacosdagabi.github.io/blog/</loc><lastmod>2026-09-23</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/onde-comprar-lacos-infantis-em-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/onde-comprar-lacos-para-bebe-em-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/tiara-ou-presilha-infantil/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/lacos-infantis-em-lagarto-modelos-precos/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/onde-comprar-tiaras-infantis-em-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/lacos-escolares-em-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/lacos-personalizados-em-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/kit-de-lacos-infantis-vale-a-pena/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/lacos-artesanais-feitos-a-mao/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/como-escolher-tamanho-laco-infantil/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/lacos-para-aniversario-infantil/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/como-combinar-lacos-com-look-infantil/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/presente-para-menina-em-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/ideias-presentes-infantis-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://lacosdagabi.github.io/blog/acessorios-de-cabelo-infantil-lagarto/</loc><lastmod>2026-09-23</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
