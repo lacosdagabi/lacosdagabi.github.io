@@ -792,3 +792,8 @@ ul { margin: 0; padding: 0; list-style: none; }
 
 @media (max-width: 900px) { .blog-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 600px) { .blog-grid { grid-template-columns: 1fr; } .cta-inline .btn-row .btn { width: 100%; } }
+
+/* Botões dentro de artigos (não herdar estilo de link do .prose) */
+.prose a.btn { text-decoration: none; }
+.prose a.btn--primary, .prose a.btn--whatsapp { color: #fff; }
+.prose a.btn--soft, .prose a.btn--ghost { color: var(--color-deep-rose); }
